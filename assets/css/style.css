@@ -284,6 +284,8 @@ body.dark-theme {
 	border: 0;
 	outline: none;
 	color: #8b7d77;
+  /* background-color: red;
+  height: 500px; */
 }
 
 .search_wrap .search_box{
