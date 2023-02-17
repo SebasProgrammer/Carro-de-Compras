@@ -81,7 +81,7 @@ input {
 
 body {
   margin: 0;
-  background-color: var(--body-color);
+  background-color: #ebf2f2;
   color: var(--text-color);
   /*For animation dark mode*/
   transition: .4s;
@@ -257,6 +257,10 @@ body.dark-theme {
 .nav__shop,
 .nav__close {
   color: var(--title-color);
+}
+
+.nav__logo .bx{
+  color: var(--first-color);
 }
 
 .nav__logo {
