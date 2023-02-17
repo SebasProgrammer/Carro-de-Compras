@@ -6,7 +6,7 @@
   --header-height: 3.5rem;
 
   /*========== Colors ==========*/
-  --first-color: hsl(354, 78%, 60%);
+  --first-color: hsl(103, 55%, 55%);
   --button-color: hsl(0, 0%, 17%);
   --button-color-alt: hsl(0, 0%, 21%);
   --card-color: hsl(0, 0%, 90%);
@@ -313,7 +313,7 @@ body.dark-theme {
 	right: 0;
 	width: 60px;
 	height: 100%;
-	background: #7690da;
+	background: hsl(103, 55%, 55%);;
 	z-index: 1;
 	cursor: pointer;
 }
@@ -457,8 +457,8 @@ body.dark-theme {
   padding-bottom: 2rem;
   display: flex;
   justify-content: center;
-  align-items: flex-end;
-  justify-self: flex-end;
+  align-items: center;
+  justify-self: center;
   transform: translateX(1.5rem);
 }
 
