@@ -462,6 +462,10 @@ body.dark-theme {
   transform: translateX(1.5rem);
 }
 
+.home__img{
+  color: gray;
+}
+
 .home__title {
   font-size: var(--biggest-font-size);
   font-weight: var(--font-bold);
